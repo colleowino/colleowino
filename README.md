@@ -1,8 +1,9 @@
 <h3 align="center">👋 Thanks for stopping by, I'm Ciff.</h3>
 
 <p align="center">
-  <a href="https://sarahdayan.dev/">Blog/Website</a> •
-  <a href="https://twitter.com/frontstuff_io">Twitter</a>
+  <a href="http://colleowino.github.io">Blog/Website</a> •
+  <a href="https://twitter.com/frontstuff_io">Twitter</a> •
+  <a href="https://gitlab.com/colleowinoo">gitlab</a>
 </p>
 
 ---
