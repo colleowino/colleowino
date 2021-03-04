@@ -10,7 +10,7 @@
 I'm a Freelance Software Engineer mostly working on frontend stuff(Angular/Vue).
 Used to detest javascript but ES6 changed that and now I'm its biggest fan. But also dabble in Python sometimes. I'm an arm chair psychologist, always interested in a discussion about how our minds work.
 
-- 🔭 I’m currently accpeting front-end dev projects,
+- 🔭 I’m currently accepting front-end dev projects,
 
 <p>
   <h4>Coding Challenge Profiles if you are into that sort of thing</h4>
