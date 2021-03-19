@@ -4,6 +4,7 @@
   <a href="http://colleowino.github.io">Blog/Website</a> •
   <a href="https://twitter.com/colleowino">Twitter</a> •
   <a href="https://gitlab.com/colleowinoo">gitlab</a>
+  <a href="https://bitbucket.org/colleowino/">bitbucket</a>
 </p>
 
 ---
