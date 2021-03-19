@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://colleowino.github.io">Blog/Website</a> •
-  <a href="https://twitter.com/frontstuff_io">Twitter</a> •
+  <a href="https://twitter.com/colleowino">Twitter</a> •
   <a href="https://gitlab.com/colleowinoo">gitlab</a>
 </p>
 
